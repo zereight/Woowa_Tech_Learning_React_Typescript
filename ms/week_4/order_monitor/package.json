@@ -10,7 +10,7 @@
         "@types/recharts": "1.1.16",
         "@types/redux-saga": "0.10.5",
         "@types/superagent": "4.1.1",
-        "antd": "3.17.0",
+        "antd": "3.26.20",
         "axios": "0.18.0",
         "dayjs": "1.8.14",
         "moment": "2.24.0",
