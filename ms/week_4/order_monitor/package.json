@@ -12,7 +12,7 @@
         "@types/superagent": "4.1.1",
         "antd": "3.17.0",
         "axios": "0.18.0",
-        "dayjs": "1.8.14",
+        "dayjs": "1.10.5",
         "moment": "2.24.0",
         "react": "16.8.4",
         "react-dom": "16.8.4",
